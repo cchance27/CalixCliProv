@@ -1,0 +1,18 @@
+{
+  "name": "calix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-rest-client": "^2.0.1",
+    "q": "^1.4.1",
+    "soap": "^0.17.0",
+    "unirest": "^0.5.1",
+    "xml2js": "^0.4.17"
+  }
+}
